@@ -11,10 +11,59 @@
               <table class="tg">
                 <thead>
                   <tr>
-                    <th class="tg-u1yq" colspan="2">郑州市5支</th>
+                    <th class="tg-u1yq" colspan="2">公共救援电话</th>
                   </tr>
                 </thead>
                 <tbody>
+                  <tr>
+                    <td class="tg-1wig">队伍名称</td>
+                    <td class="tg-1wig">电话</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">消防火警电话</td>
+                    <td class="tg-0lax">
+                      <a href="tel:119">119</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">公安报警电话</td>
+                    <td class="tg-0lax">
+                      <a href="tel:110">110</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">交通事故报警电话</td>
+                    <td class="tg-0lax">
+                      <a href="tel:122">122</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">水上求救专用报警电话</td>
+                    <td class="tg-0lax">
+                      <a href="tel:12395">12395</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">急救中心报警电话</td>
+                    <td class="tg-0lax">
+                      <a href="tel:120">120</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">红十字会急救台报警电话</td>
+                    <td class="tg-0lax">
+                      <a href="tel:999">999</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">河南省应急救援协会</td>
+                    <td class="tg-0lax">
+                      <a href="tel:4000005110">4000005110</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-u1yq" colspan="2">郑州市5支</td>
+                  </tr>
                   <tr>
                     <td class="tg-1wig">队伍名称</td>
                     <td class="tg-1wig">负责人及手机号</td>

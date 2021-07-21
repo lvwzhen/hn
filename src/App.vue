@@ -587,7 +587,7 @@
                     />
                   </div>
                 </van-collapse-item>
-                
+
                 <van-collapse-item title="暴雨避险指南" name="3">
                   <div class="post-content">
                     <p>
@@ -725,7 +725,8 @@
       </div>
     </div>
     <div class="footer">
-      <a href="https://support.qq.com/product/340224">反馈建议</a><i>·</i><a href="/wechat.png">联系作者</a>
+      <a href="https://support.qq.com/product/340224">反馈建议</a><i>·</i
+      ><a href="/wechat.png">联系作者</a>
     </div>
   </div>
 </template>

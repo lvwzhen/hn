@@ -588,14 +588,20 @@
           <van-tab title="自救指南"
             ><div class="tab-content">
               <van-collapse v-model="activeNames">
-                 <van-collapse-item title="暴雨紧急求助通道" name="1">
+                <van-collapse-item title="暴雨紧急求助通道" name="1">
                   <div class="post-content">
-                    <p style="text-align: center;font-size:16px"><b><a href="https://h5.peopleapp.com/floodhelp/">👉 河南暴雨紧急求助通道 👈</a></b></p>
+                    <p style="text-align: center; font-size: 16px">
+                      <b
+                        ><a href="https://h5.peopleapp.com/floodhelp/"
+                          >👉 河南暴雨紧急求助通道 👈</a
+                        ></b
+                      >
+                    </p>
                     <img
                       src="https://i.loli.net/2021/07/21/m8KwpjesSgYhfvR.jpg"
                       alt=""
                     />
-                     <p>
+                    <p>
                       来自：<a href="https://weibo.com/u/2803301701"
                         >@人民日报</a
                       >
@@ -603,7 +609,7 @@
                   </div>
                 </van-collapse-item>
 
-                 <van-collapse-item title="暴雨避险指南" name="2">
+                <van-collapse-item title="暴雨避险指南" name="2">
                   <div class="post-content">
                     <img
                       src="https://i.loli.net/2021/07/21/faMnz9LqsxJRrKI.jpg"
@@ -782,13 +788,29 @@
                       精准填报信息有助于提高救援效率，但救援资源有限，如不能马上获得救援，请安抚您的家人，保持耐心，保持电量和体力，关注水位变化和预警通知，互相帮扶。
                     </p>
                     <p>
-                      如有孕妇救援需要，可拨打<a href="tel:18837125905">18837125905</a>
+                      如有孕妇救援需要，可拨打<a href="tel:18837125905"
+                        >18837125905</a
+                      >
                       提供24小时车接车送服务。
                     </p>
                   </div>
                 </van-collapse-item>
 
-                <van-collapse-item title="洪水自救指南" name="6"
+                <van-collapse-item title="洪涝期间饮用水安全" name="6">
+                  <div class="post-content">
+                    <img
+                      src="https://i.loli.net/2021/07/21/GlX4qIKCNVohytQ.jpg"
+                      alt=""
+                    />
+                    <p>
+                      来自：<a href="https://weibo.com/u/2803301701"
+                        >@人民日报</a
+                      >
+                    </p>
+                  </div>
+                </van-collapse-item>
+
+                <van-collapse-item title="洪水自救指南" name="7"
                   ><div class="post-content">
                     <p>
                       夏季为洪水高发期，洪涝灾害极易威胁人民群众的生命财产安全，也易影响环境，造成疾病的传播。洪水来临时如何最大限度保护我们的家，遇到洪涝灾害又该怎样来保护自己和亲人的生命安全呢？
@@ -897,15 +919,19 @@
                   </div></van-collapse-item
                 >
 
-                 <van-collapse-item title="河南避灾酒店" name="7"
+                <van-collapse-item title="河南避灾酒店" name="8"
                   ><div class="post-content">
-
-                    <img src="https://i.loli.net/2021/07/21/zMQBDE9jowgIp4K.jpg" alt="">
+                    <img
+                      src="https://i.loli.net/2021/07/21/zMQBDE9jowgIp4K.jpg"
+                      alt=""
+                    />
 
                     <p>
-                      来自：<a href="https://weibo.com/1652678204/KpNw8vzH1">@桑格格桑格格</a>
+                      来自：<a href="https://weibo.com/1652678204/KpNw8vzH1"
+                        >@桑格格桑格格</a
+                      >
                     </p>
-                    </div></van-collapse-item
+                  </div></van-collapse-item
                 >
               </van-collapse>
             </div></van-tab

@@ -907,7 +907,7 @@
     <div class="footer">
       <a href="https://support.qq.com/product/340224">反馈建议</a><i>·</i
       ><a href="https://github.com/lvwzhen/hn">贡献代码</a><i>·</i
-      ><a href="/wechat.png">联系作者</a>
+      ><a href="/lvwzhen.png">联系作者</a>
     </div>
   </div>
 </template>

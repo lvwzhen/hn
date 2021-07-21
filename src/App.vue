@@ -584,39 +584,35 @@
               <van-collapse v-model="activeNames">
                  <van-collapse-item title="暴雨紧急求助通道" name="1">
                   <div class="post-content">
-                    <p>
-                      来自：<a href="https://weibo.com/u/2803301701"
-                        >@人民日报</a
-                      >
-                    </p>
-
                     <p style="text-align: center;font-size:16px"><b><a href="https://h5.peopleapp.com/floodhelp/">👉 河南暴雨紧急求助通道 👈</a></b></p>
                     <img
                       src="https://i.loli.net/2021/07/21/m8KwpjesSgYhfvR.jpg"
                       alt=""
                     />
+                     <p>
+                      来自：<a href="https://weibo.com/u/2803301701"
+                        >@人民日报</a
+                      >
+                    </p>
                   </div>
                 </van-collapse-item>
 
                  <van-collapse-item title="暴雨避险指南" name="2">
                   <div class="post-content">
+                    <img
+                      src="https://i.loli.net/2021/07/21/faMnz9LqsxJRrKI.jpg"
+                      alt=""
+                    />
                     <p>
                       来自：<a href="https://weibo.com/u/2803301701"
                         >@人民日报</a
                       >
                     </p>
-                    <img
-                      src="https://i.loli.net/2021/07/21/faMnz9LqsxJRrKI.jpg"
-                      alt=""
-                    />
                   </div>
                 </van-collapse-item>
 
                 <van-collapse-item title="救援和医疗建议" name="3">
                   <div class="post-content">
-                    <p>
-                      来自：<a href="https://weibo.com/u/1907166177">@理记</a>
-                    </p>
                     <h3 id="一救援专家建议">一、救援专家建议：</h3>
                     <ol>
                       <li>
@@ -658,14 +654,14 @@
                         雨天视线不好，行车时会出现路滑导致的行车安全事故，寻找停车位置时，一定要寻找安全地带，打开双闪。能不出门尽量不要出门。
                       </li>
                     </ol>
+                    <p>
+                      来自：<a href="https://weibo.com/u/1907166177">@理记</a>
+                    </p>
                   </div>
                 </van-collapse-item>
 
                 <van-collapse-item title="自救事项" name="4">
                   <div class="post-content">
-                    <p>
-                      来自：<a href="https://weibo.com/u/3215848574">@老张哇</a>
-                    </p>
                     <ol>
                       <li>看到无人机记得打开手电筒挥舞!会确定方向!</li>
                       <li>
@@ -700,6 +696,9 @@
                         记得，不要穿拖鞋凉鞋，不跟脚的鞋子，进水雨靴千万别穿一旦灌水，根本走不了，穿运动鞋！
                       </li>
                     </ol>
+                    <p>
+                      来自：<a href="https://weibo.com/u/3215848574">@老张哇</a>
+                    </p>
                   </div>
                 </van-collapse-item>
 
@@ -785,12 +784,6 @@
 
                 <van-collapse-item title="洪水自救指南" name="6"
                   ><div class="post-content">
-                    <p>
-                      来自：<a
-                        href="https://www.zhihu.com/question/473592745/answer/2010364602"
-                        >@壹基金</a
-                      >
-                    </p>
                     <p>
                       夏季为洪水高发期，洪涝灾害极易威胁人民群众的生命财产安全，也易影响环境，造成疾病的传播。洪水来临时如何最大限度保护我们的家，遇到洪涝灾害又该怎样来保护自己和亲人的生命安全呢？
                     </p>
@@ -889,6 +882,12 @@
                     </p>
 
                     <p>（根据国家应急广播、壹基金相关信息整理）</p>
+                    <p>
+                      来自：<a
+                        href="https://www.zhihu.com/question/473592745/answer/2010364602"
+                        >@壹基金</a
+                      >
+                    </p>
                   </div></van-collapse-item
                 >
               </van-collapse>

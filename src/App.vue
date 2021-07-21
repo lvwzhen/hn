@@ -58,7 +58,13 @@
                   <tr>
                     <td class="tg-0lax">河南省应急救援协会</td>
                     <td class="tg-0lax">
-                      <a href="tel:4000005110">4000005110</a>
+                      <a href="tel:4000005110">400-000-5110</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">蓝天救援队热线</td>
+                    <td class="tg-0lax">
+                      <a href="tel:4006009958">400-600-9958</a>
                     </td>
                   </tr>
                   <tr>

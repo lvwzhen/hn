@@ -631,6 +631,8 @@
                         >@人民日报</a
                       >
                     </p>
+
+                    <p style="text-align: center;font-size:16px"><b><a href="https://h5.peopleapp.com/floodhelp/">👉 河南暴雨紧急求助通道 👈</a></b></p>
                     <img
                       src="https://i.loli.net/2021/07/21/m8KwpjesSgYhfvR.jpg"
                       alt=""

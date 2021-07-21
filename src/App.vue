@@ -726,6 +726,7 @@
     </div>
     <div class="footer">
       <a href="https://support.qq.com/product/340224">反馈建议</a><i>·</i
+      ><a href="https://github.com/lvwzhen/hn">贡献代码</a><i>·</i
       ><a href="/wechat.png">联系作者</a>
     </div>
   </div>
@@ -764,6 +765,8 @@ export default {
   background: -webkit-linear-gradient(to top, #021b79, #0575e6);
   background: linear-gradient(to top, #021b79, #0575e6);
   min-height: 100vh;
+  padding-bottom: constant(safe-area-inset-bottom); /* 兼容 iOS < 11.2 */
+  padding-bottom: env(safe-area-inset-bottom); /* 兼容 iOS >= 11.2 */
 }
 .source {
   padding: 10px;
@@ -871,7 +874,7 @@ export default {
   height: auto;
 }
 .post-content ol {
-  list-style: auto;
+  list-style: decimal;
   padding-left: 20px;
   margin: 1em 0;
 }

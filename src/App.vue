@@ -574,7 +574,21 @@
                     </ol>
                   </div>
                 </van-collapse-item>
-                <van-collapse-item title="暴雨避险指南" name="2">
+                <van-collapse-item title="暴雨紧急求助通道" name="2">
+                  <div class="post-content">
+                    <p>
+                      来自：<a href="https://weibo.com/u/2803301701"
+                        >@人民日报</a
+                      >
+                    </p>
+                    <img
+                      src="https://i.loli.net/2021/07/21/m8KwpjesSgYhfvR.jpg"
+                      alt=""
+                    />
+                  </div>
+                </van-collapse-item>
+                
+                <van-collapse-item title="暴雨避险指南" name="3">
                   <div class="post-content">
                     <p>
                       来自：<a href="https://weibo.com/u/2803301701"
@@ -587,7 +601,7 @@
                     />
                   </div>
                 </van-collapse-item>
-                <van-collapse-item title="洪水自救指南" name="3"
+                <van-collapse-item title="洪水自救指南" name="4"
                   ><div class="post-content">
                     <p>
                       来自：<a

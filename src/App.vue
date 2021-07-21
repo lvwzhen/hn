@@ -955,4 +955,7 @@ export default {
 .post-content li {
   margin-bottom: 10px;
 }
+.van-collapse-item .van-cell{
+  font-weight: bold;
+}
 </style>

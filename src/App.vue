@@ -5,7 +5,7 @@
     </div>
     <div class="body">
       <div class="container">
-        <van-tabs v-model="active" color="#3373DD" sticky>
+        <van-tabs color="#3373DD" sticky>
           <van-tab title="救援电话">
             <div class="tab-content">
               <table class="tg">

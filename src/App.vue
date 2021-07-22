@@ -810,7 +810,16 @@
                   </div>
                 </van-collapse-item>
 
-                <van-collapse-item title="洪水自救指南" name="7"
+                <van-collapse-item title="微信互助小程序" name="7">
+                  <div class="post-content">
+                    <img
+                      src="https://i.loli.net/2021/07/22/OrILVWdclJCpmtY.jpg"
+                      alt=""
+                    />
+                  </div>
+                </van-collapse-item>
+
+                <van-collapse-item title="洪水自救指南" name="8"
                   ><div class="post-content">
                     <p>
                       夏季为洪水高发期，洪涝灾害极易威胁人民群众的生命财产安全，也易影响环境，造成疾病的传播。洪水来临时如何最大限度保护我们的家，遇到洪涝灾害又该怎样来保护自己和亲人的生命安全呢？
@@ -919,7 +928,7 @@
                   </div></van-collapse-item
                 >
 
-                <van-collapse-item title="河南避灾酒店" name="8"
+                <van-collapse-item title="河南避灾酒店" name="9"
                   ><div class="post-content">
                     <img
                       src="https://i.loli.net/2021/07/21/zMQBDE9jowgIp4K.jpg"

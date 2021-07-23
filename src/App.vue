@@ -107,6 +107,85 @@
                     </td>
                   </tr>
                   <tr>
+                    <td class="tg-u1yq" colspan="2">新乡市12支</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-1wig">队伍名称</td>
+                    <td class="tg-1wig">负责人及手机号</td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">新乡市应急救援协会</td>
+                    <td class="tg-0lax">
+                      <a href="tel:037333899581">0373-3389958</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">新乡市蓝天救援队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:037333899581">0373-3389958</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">退役军人应急救援中心</td>
+                    <td class="tg-0lax">
+                      <a href="tel:13525022282">13525022282</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">卫辉大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03734425119">0373-4425119</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">古固寨大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:13837393450">13837393450</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">获嘉大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03734699958">0373-4699958</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">原阳大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:13462396702">13462396702</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">获嘉大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03734596119">0373-4596119</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">延津大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03737888119">0373-7888119</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">长垣大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03738889119">0373-8889119</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">封丘大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03738559958">0373-8559958</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="tg-0lax">辉县大队</td>
+                    <td class="tg-0lax">
+                      <a href="tel:03735988119">0373-5988119</a>
+                    </td>
+                  </tr>
+                  <tr>
                     <td class="tg-u1yq" colspan="2">开封市3支</td>
                   </tr>
                   <tr>
@@ -231,25 +310,7 @@
                       <a href="tel:17719900007">钱宏滔 17719900007</a>
                     </td>
                   </tr>
-                  <tr>
-                    <td class="tg-u1yq" colspan="2">新乡市2支</td>
-                  </tr>
-                  <tr>
-                    <td class="tg-1wig">队伍名称</td>
-                    <td class="tg-1wig">负责人及手机号</td>
-                  </tr>
-                  <tr>
-                    <td class="tg-0lax">新乡市河马应急救援中心</td>
-                    <td class="tg-0lax">
-                      <a href="tel:13333804449">柴守勇 13333804449</a>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="tg-0lax">退役军人应急救援中心</td>
-                    <td class="tg-0lax">
-                      <a href="tel:13525022282">刘海军 13525022282</a>
-                    </td>
-                  </tr>
+                  
                   <tr>
                     <td class="tg-u1yq" colspan="2">焦作市2支</td>
                   </tr>

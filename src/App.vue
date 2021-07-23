@@ -310,7 +310,7 @@
                       <a href="tel:17719900007">钱宏滔 17719900007</a>
                     </td>
                   </tr>
-                  
+
                   <tr>
                     <td class="tg-u1yq" colspan="2">焦作市2支</td>
                   </tr>
@@ -894,7 +894,6 @@
                   </div>
                 </van-collapse-item>
 
-
                 <van-collapse-item title="洪水自救指南" name="9"
                   ><div class="post-content">
                     <p>
@@ -1029,6 +1028,22 @@
               frameborder="0"
             >
             </iframe
+          ></van-tab>
+
+          <van-tab title="求助地图">
+            <div class="tab-content">
+              <p class="source" :style="{ margin: '0' }">
+                来自：<a href="https://henan.tianshili.me/"
+                  >河南暴雨微博求助信息</a
+                >
+              </p>
+              <iframe
+                width="100%"
+                height="800px"
+                src="https://henan.tianshili.me/"
+                frameborder="0"
+              >
+              </iframe></div
           ></van-tab>
         </van-tabs>
       </div>

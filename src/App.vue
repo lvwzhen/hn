@@ -122,7 +122,7 @@
                   <tr>
                     <td class="tg-0lax">新乡市蓝天救援队</td>
                     <td class="tg-0lax">
-                      <a href="tel:037333899581">0373-3389958</a>
+                      <a href="tel:17303739958">17303739958</a>
                     </td>
                   </tr>
                   <tr>
